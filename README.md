@@ -8,10 +8,11 @@ Because couldn't find the json file of Pokémon name translation updated to the 
 
 
 Source used for crawling is [神奇寶貝百科][1].  
-爬蟲的來源是[神奇寶貝百科][1].
+爬蟲的來源是[神奇寶貝百科][1]。
+
 
 File Description (檔案描述):
-|           | Description                                            | 描述                                                      |
+|           | English Description                                    | 中文描述                                                  |
 |-----------|--------------------------------------------------------|-----------------------------------------------------------|
 | id        | National Pokédex number                                | 寶可夢的全國圖鑑編號                                       |
 | name_cn   | The Traditional Chinese name of Pokémon                | 寶可夢的中文名稱                                           |
