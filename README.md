@@ -1,6 +1,6 @@
 # Pokedex_JSON
-The csv file and json file of Pokémon updated to generation 9, including Chinese names, Japanese names, English names and Types, but not including regional forms.  
-更新至第 9 世代寶可夢的 csv 檔和 json 檔，包括寶可夢的中文名稱、日文名稱、英文名稱和屬性，但不包括地區型態。
+The csv file and json file of Pokémon updated to generation 9, including Traditional Chinese names, Japanese names, English names and Types, but not including regional forms.  
+更新至第 9 世代寶可夢的 csv 檔和 json 檔，包括寶可夢的繁體中文名稱、日文名稱、英文名稱和屬性，但不包括地區型態。
 
 
 Because couldn't find the json file of Pokémon name translation updated to the latest generation in other people's repositories, so do it myself.  
