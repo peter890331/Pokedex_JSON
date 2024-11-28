@@ -7,8 +7,8 @@ Because couldn't find the json file of Pokémon name translation updated to the 
 因為找不到其他人的資料庫中有更新到最新世代的寶可夢名稱翻譯 json 檔，所以只好自己做。  
 
 
-Source used for crawling is [神奇寶貝百科][1].  
-爬蟲的來源是[神奇寶貝百科][1]。
+Source used for crawling is [神奇寶貝百科][1], as of 2024/11/29.  
+爬蟲的來源是[神奇寶貝百科][1]，截至 2024/11/29。
 
 
 File Description (檔案描述):
