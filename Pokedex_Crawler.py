@@ -31,12 +31,12 @@ for row in rows:
         continue
 
     # 提取數據
-    id = cols[0].text.strip()                               # 全國圖鑑編號
-    name_cn = cols[3].text.strip()                          # 中文名字
-    name_jp = cols[4].text.strip()                          # 日文名字
-    name_en = cols[5].text.strip()                          # 英文名字
-    type1 = cols[6].text.strip()                            # 屬性 1
-    type2 = cols[7].text.strip() if len(cols) > 7 else ""   # 屬性 2
+    id = cols[0].text.strip()                                       # 全國圖鑑編號
+    name_cn = cols[3].text.strip().replace("*", "")     # 中文名字
+    name_jp = cols[4].text.strip()                                  # 日文名字
+    name_en = cols[5].text.strip()                                  # 英文名字
+    type1 = cols[6].text.strip()                                    # 屬性 1
+    type2 = cols[7].text.strip() if len(cols) > 7 else ""           # 屬性 2
 
     # 過濾無效的屬性2
     if type2.startswith("{{") or type2.startswith("[["):

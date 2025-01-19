@@ -273,7 +273,7 @@
     },
     {
         "id": "#0035",
-        "name_cn": "皮皮*",
+        "name_cn": "皮皮",
         "name_jp": "ピッピ",
         "name_en": "Clefairy",
         "type1": "妖精",
@@ -281,7 +281,7 @@
     },
     {
         "id": "#0036",
-        "name_cn": "皮可西*",
+        "name_cn": "皮可西",
         "name_jp": "ピクシー",
         "name_en": "Clefable",
         "type1": "妖精",
@@ -305,7 +305,7 @@
     },
     {
         "id": "#0039",
-        "name_cn": "胖丁*",
+        "name_cn": "胖丁",
         "name_jp": "プリン",
         "name_en": "Jigglypuff",
         "type1": "一般",
@@ -313,7 +313,7 @@
     },
     {
         "id": "#0040",
-        "name_cn": "胖可丁*",
+        "name_cn": "胖可丁",
         "name_jp": "プクリン",
         "name_en": "Wigglytuff",
         "type1": "一般",
@@ -641,7 +641,7 @@
     },
     {
         "id": "#0081",
-        "name_cn": "小磁怪*",
+        "name_cn": "小磁怪",
         "name_jp": "コイル",
         "name_en": "Magnemite",
         "type1": "電",
@@ -649,7 +649,7 @@
     },
     {
         "id": "#0082",
-        "name_cn": "三合一磁怪*",
+        "name_cn": "三合一磁怪",
         "name_jp": "レアコイル",
         "name_en": "Magneton",
         "type1": "電",
@@ -969,7 +969,7 @@
     },
     {
         "id": "#0122",
-        "name_cn": "魔牆人偶*",
+        "name_cn": "魔牆人偶",
         "name_jp": "バリヤード",
         "name_en": "Mr. Mime",
         "type1": "超能力",
@@ -1377,7 +1377,7 @@
     },
     {
         "id": "#0173",
-        "name_cn": "皮寶寶*",
+        "name_cn": "皮寶寶",
         "name_jp": "ピィ",
         "name_en": "Cleffa",
         "type1": "妖精",
@@ -1385,7 +1385,7 @@
     },
     {
         "id": "#0174",
-        "name_cn": "寶寶丁*",
+        "name_cn": "寶寶丁",
         "name_jp": "ププリン",
         "name_en": "Igglybuff",
         "type1": "一般",
@@ -1393,7 +1393,7 @@
     },
     {
         "id": "#0175",
-        "name_cn": "波克比*",
+        "name_cn": "波克比",
         "name_jp": "トゲピー",
         "name_en": "Togepi",
         "type1": "妖精",
@@ -1401,7 +1401,7 @@
     },
     {
         "id": "#0176",
-        "name_cn": "波克基古*",
+        "name_cn": "波克基古",
         "name_jp": "トゲチック",
         "name_en": "Togetic",
         "type1": "妖精",
@@ -1457,7 +1457,7 @@
     },
     {
         "id": "#0183",
-        "name_cn": "瑪力露*",
+        "name_cn": "瑪力露",
         "name_jp": "マリル",
         "name_en": "Marill",
         "type1": "水",
@@ -1465,7 +1465,7 @@
     },
     {
         "id": "#0184",
-        "name_cn": "瑪力露麗*",
+        "name_cn": "瑪力露麗",
         "name_jp": "マリルリ",
         "name_en": "Azumarill",
         "type1": "水",
@@ -1665,7 +1665,7 @@
     },
     {
         "id": "#0209",
-        "name_cn": "布魯*",
+        "name_cn": "布魯",
         "name_jp": "ブルー",
         "name_en": "Snubbull",
         "type1": "妖精",
@@ -1673,7 +1673,7 @@
     },
     {
         "id": "#0210",
-        "name_cn": "布魯皇*",
+        "name_cn": "布魯皇",
         "name_jp": "グランブル",
         "name_en": "Granbull",
         "type1": "妖精",
@@ -2233,7 +2233,7 @@
     },
     {
         "id": "#0280",
-        "name_cn": "拉魯拉絲*",
+        "name_cn": "拉魯拉絲",
         "name_jp": "ラルトス",
         "name_en": "Ralts",
         "type1": "超能力",
@@ -2241,7 +2241,7 @@
     },
     {
         "id": "#0281",
-        "name_cn": "奇魯莉安*",
+        "name_cn": "奇魯莉安",
         "name_jp": "キルリア",
         "name_en": "Kirlia",
         "type1": "超能力",
@@ -2249,7 +2249,7 @@
     },
     {
         "id": "#0282",
-        "name_cn": "沙奈朵*",
+        "name_cn": "沙奈朵",
         "name_jp": "サーナイト",
         "name_en": "Gardevoir",
         "type1": "超能力",
@@ -2377,7 +2377,7 @@
     },
     {
         "id": "#0298",
-        "name_cn": "露力麗*",
+        "name_cn": "露力麗",
         "name_jp": "ルリリ",
         "name_en": "Azurill",
         "type1": "一般",
@@ -2417,7 +2417,7 @@
     },
     {
         "id": "#0303",
-        "name_cn": "大嘴娃*",
+        "name_cn": "大嘴娃",
         "name_jp": "クチート",
         "name_en": "Mawile",
         "type1": "鋼",
@@ -3505,7 +3505,7 @@
     },
     {
         "id": "#0439",
-        "name_cn": "魔尼尼*",
+        "name_cn": "魔尼尼",
         "name_jp": "マネネ",
         "name_en": "Mime Jr.",
         "type1": "超能力",
@@ -3737,7 +3737,7 @@
     },
     {
         "id": "#0468",
-        "name_cn": "波克基斯*",
+        "name_cn": "波克基斯",
         "name_jp": "トゲキッス",
         "name_en": "Togekiss",
         "type1": "妖精",
@@ -4361,7 +4361,7 @@
     },
     {
         "id": "#0546",
-        "name_cn": "木棉球*",
+        "name_cn": "木棉球",
         "name_jp": "モンメン",
         "name_en": "Cottonee",
         "type1": "草",
@@ -4369,7 +4369,7 @@
     },
     {
         "id": "#0547",
-        "name_cn": "風妖精*",
+        "name_cn": "風妖精",
         "name_jp": "エルフーン",
         "name_en": "Whimsicott",
         "type1": "草",
