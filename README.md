@@ -195,7 +195,7 @@ async function addPokemonSubjectsReactHack() {
     }
 
     console.log("--------------------------------------------------");
-    console.log("🎉 所有寶可夢主題已成功新增完成！");
+    console.log("🎉 所有寶可夢已成功新增完成！");
 }
 
 addPokemonSubjectsReactHack();
