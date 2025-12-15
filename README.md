@@ -30,6 +30,8 @@ File Description (檔案描述):
 
 [2]: https://gartic.io/
 
+![Gartic_Demo](https://github.com/user-attachments/assets/b5313a1e-02f5-4c6e-9f5d-6d03dbfac234)
+
 ```javascript
 const pokemonNames = [
     "妙蛙種子", "妙蛙草", "妙蛙花", "小火龍", "火恐龍", "噴火龍", "傑尼龜", "卡咪龜", "水箭龜", "綠毛蟲", 
@@ -193,7 +195,7 @@ async function addPokemonSubjectsReactHack() {
         
         console.log(`✅ [${i + 1}/${pokemonNames.length}] 已新增: ${name}`);
         
-        await delay(150); 
+        await delay(100); 
     }
 
     console.log("--------------------------------------------------");
