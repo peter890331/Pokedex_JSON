@@ -191,7 +191,7 @@ async function addPokemonSubjectsReactHack() {
         
         console.log(`✅ [${i + 1}/${pokemonNames.length}] 已新增: ${name}`);
         
-        await delay(100); 
+        await delay(10); 
     }
 
     console.log("--------------------------------------------------");
